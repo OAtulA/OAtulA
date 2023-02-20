@@ -6,7 +6,8 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on __100DaysOfCode__   
+- 🔭 I’m currently studying for ___uni Exams___ then would continue to code.
+- I was previously working on __100DaysOfCode__   
     I am tweeting on Twitter about it.
 - 🌱 I’m currently revising __JAVA__  
 - 👯 I’m looking to collaborate on __Opensource Projects__  
