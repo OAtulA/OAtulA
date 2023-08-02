@@ -6,10 +6,10 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently studying for ___uni Exams___ then would continue to code.
+- 🔭 I’m currently studying for ___MERN___ then would continue to code.
 - I was previously working on __100DaysOfCode__   
     I am tweeting on Twitter about it.
-- 🌱 I’m currently revising __JAVA__  
+- 🌱 I’m currently preparing for ___cloud___ , ___DSA___ and ___web3___ 
 - 👯 I’m looking to collaborate on __Opensource Projects__  
 - 🤔 I’m looking for help with __Learning Path/Guidance__ in web dev __MERN__
 - 💬 Ask me about Mistakes to avoid as a begginer in Code
