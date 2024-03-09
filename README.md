@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently studying for ___MERN___ then would continue to code.
 - I was previously working on __100DaysOfCode__   
     I am tweeting on Twitter about it.
-- 🌱 I’m currently preparing for ___cloud___ , ___DSA___ and ___web3___ 
+- 🌱 I’m currently preparing for ___cloud___ , ___DSA___ and ___web___ 
 - 👯 I’m looking to collaborate on __Opensource Projects__  
 - 🤔 I’m looking for help with __Learning Path/Guidance__ in web dev __MERN__
 - 💬 Ask me about Mistakes to avoid as a begginer in Code
