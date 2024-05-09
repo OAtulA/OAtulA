@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My Projects on my Local Machine got deleted.  
 
-- [Resume](https://www.canva.com/design/DAGCtMiczY0/vBxm4tA_8CChtAdP-CxD-Q/view?utm_content=DAGCtMiczY0&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)
+- [__RESUME__](https://drive.google.com/file/d/1snLkm0iMv-Mi90xUALeTfFhoIHVf7ISy/view?usp=sharing)
+- [Resume Latest preview](https://www.canva.com/design/DAGCtMiczY0/vBxm4tA_8CChtAdP-CxD-Q/view?utm_content=DAGCtMiczY0&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=OAtulA&theme=gruvbox)](https://git.io/streak-stats)
